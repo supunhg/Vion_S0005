@@ -408,4 +408,4 @@ FodyWeavers.xsd
 # Custom
 .venv/
 known_faces/*
-debug.py
+beta.py
